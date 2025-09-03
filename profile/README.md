@@ -37,4 +37,4 @@ All pull requests are reviewed by our [Core-Maintainers](https://github.com/orgs
 
 If you use this version of tRIBS (5.2 or above) in your research, please cite our JOSS paper:
 
-> Raming et al., (2024). tRIBS v5.2: A multi-resolution, parallel platform for tributary hydrology in forest applications. Journal of Open Source Software, 9(101), 6747, https://doi.org/10.21105/joss.06747
+> Raming, L.W., Vivoni, E.R., Mascaro, G., Cederstrom, C.J., Ko, A., Schreiner-McGraw, A.P., and Lizarraga-Celaya, C. (2024). tRIBS v5.2: A multi-resolution, parallel platform for tributary hydrology in forest applications. Journal of Open Source Software, 9(101), 6747, https://doi.org/10.21105/joss.06747
