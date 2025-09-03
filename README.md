@@ -1,7 +1,6 @@
-<!-- You can add a logo or banner image here! -->
-<!-- <p align="center"> -->
-<!--   <img src="URL_TO_YOUR_LOGO.png" width="300"> -->
-<!-- </p> -->
+<p align="center">
+  <img src="https://github.com/tRIBS-Model.png" alt="tRIBS-Model Logo" width="200">
+</p>
 
 # Welcome to the tRIBS-Model Organization!
 
